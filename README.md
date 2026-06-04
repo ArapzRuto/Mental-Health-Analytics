@@ -214,11 +214,11 @@ Mental-Health-Analytics-Dashboard/
 
 **Robert Ruto**
 
-Data Analytics | Business Intelligence | Excel Dashboard Development
+Data Analyst | Data Scientist |Researcher
 
 ### Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/robert-ruto-4b2166112]
 - GitHub: [Your GitHub URL]
 
 ---
