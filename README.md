@@ -60,8 +60,8 @@ The dataset was cleaned and transformed before analysis by:
 | Total Participants | 638 |
 | Average Age | 40.73 Years |
 | Average Stress Level | 5.63 / 10 |
-| Seeking Treatment | 284 |
-| Not Seeking Treatment | 680 |
+| %Seeking Treatment | 25.39 |
+| %Not Seeking Treatment | 23.98 |
 
 ### Visualizations
 
