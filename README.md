@@ -182,11 +182,9 @@ The dashboard was built using:
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview]("C:\Users\HP\OneDrive\Desktop\LuxDev Tutorials\MS Excel\Project 3 Dashboard.jpg")
 
-### Dashboard Insights
 
-![Dashboard Insights](images/dashboard-insights.png)
 
 ---
 
