@@ -188,25 +188,8 @@ The dashboard provides an interactive view of participant demographics, stress l
 
 ---
 
-## Repository Structure
 
-```text
-Mental-Health-Analytics-Dashboard/
-│
-├── Dataset/
-│   └── Mental_Health_Dataset.xlsx
-│
-├── Dashboard/
-│   └── Mental_Health_Dashboard.xlsx
-│
-├── Images/
-│   ├── dashboard-overview.png
-│   └── dashboard-insights.png
-│
-└── README.md
-```
 
----
 
 ## Author
 
