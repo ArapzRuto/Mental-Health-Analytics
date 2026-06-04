@@ -180,9 +180,9 @@ The dashboard was built using:
 
 ## Dashboard Preview
 
-### Dashboard Overview
+The dashboard provides an interactive view of participant demographics, stress levels, treatment-seeking behavior, workload patterns, and mental health indicators.
 
-![Dashboard Overview]("C:\Users\HP\OneDrive\Desktop\LuxDev Tutorials\MS Excel\Project 3 Dashboard.jpg")
+![Mental Health Dashboard](images/dashboard-overview.jpg)
 
 
 
