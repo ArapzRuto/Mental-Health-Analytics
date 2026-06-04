@@ -1,0 +1,13 @@
+Mental-Health-Analytics-Dashboard/
+│
+├── Dataset/
+│   └── Mental_Health_Dataset.xlsx
+│
+├── Dashboard/
+│   └── Mental_Health_Dashboard.xlsx
+│
+├── Images/
+│   ├── dashboard-overview.png
+│   └── dashboard-insights.png
+│
+└── README.md
