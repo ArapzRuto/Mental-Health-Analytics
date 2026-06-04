@@ -219,10 +219,8 @@ Data Analyst | Data Scientist |Researcher
 ### Connect With Me
 
 - LinkedIn: [www.linkedin.com/in/robert-ruto-4b2166112]
-- GitHub: [Your GitHub URL]
+- GitHub: [https://github.com/ArapzRuto]
 
----
 
-## License
 
-This project is available for educational, learning, and portfolio purposes.
+
