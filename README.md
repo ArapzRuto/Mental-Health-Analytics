@@ -182,7 +182,7 @@ The dashboard was built using:
 
 The dashboard provides an interactive view of participant demographics, stress levels, treatment-seeking behavior, workload patterns, and mental health indicators.
 
-![Mental Health Dashboard](images/dashboard-overview.jpg)
+![Mental Health Dashboard](https://github.com/ArapzRuto/Mental-Health-Analytics/blob/main/Project%203%20Dashboard.jpg)
 
 
 
