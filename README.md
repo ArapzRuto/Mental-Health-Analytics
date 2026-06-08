@@ -1,207 +1,118 @@
-# 🧠 Mental Health Analytics Dashboard
-
-## Project Overview
-
-The **Mental Health Analytics Dashboard** is an interactive dashboard built in **Microsoft Excel** to analyze mental health survey data and uncover patterns related to stress levels, mental health conditions, treatment-seeking behavior, workload, sleep quality, exercise habits, job satisfaction, and demographic characteristics.
-
-The project transforms raw survey data into actionable insights that can help organizations, healthcare professionals, policymakers, and researchers better understand factors influencing mental well-being.
-
----
-
-## Business Problem
-
-Mental health has become a critical concern in workplaces and communities worldwide. Organizations often struggle to understand how factors such as workload, sleep patterns, exercise habits, and job satisfaction affect employee mental well-being.
-
-This dashboard was designed to answer the following business questions:
-
-- Which mental health disorders are most commonly reported?
-- What is the overall stress level among participants?
-- How many individuals seek professional treatment?
-- How do work hours relate to mental health conditions?
-- What role do sleep and exercise play in mental well-being?
-- Are there differences in stress levels across countries?
-
----
-
-## Dataset Information
-
-The dataset contains responses from **638 participants** and includes the following variables:
-
-| Variable | Description |
-|-----------|------------|
-| Age | Participant age |
-| Gender | Participant gender |
-| Country | Country of residence |
-| Mental Health Condition | Reported mental health condition |
-| Stress Level | Self-reported stress score |
-| Sleep Hours | Average daily sleep duration |
-| Weekly Work Hours | Average hours worked per week |
-| Exercise Frequency | Exercise participation level |
-| Job Satisfaction | Self-reported job satisfaction |
-| Treatment Status | Whether the participant seeks professional treatment |
-
-### Data Preparation
-
-The dataset was cleaned and transformed before analysis by:
-
-- Handled missing values
-- Removed inconsistencies
-- Standardized categorical variables
-- Prepared fields for reporting and visualization
-
----
-
-## Dashboard Features
-
-### Key Performance Indicators (KPIs)
-
-| Metric | Value |
-|---------|--------|
-| Total Participants | 638 |
-| Average Age | 40.73 Years |
-| Average Stress Level | 5.63 / 10 |
-| %Seeking Treatment | 25.39 |
-| %Not Seeking Treatment | 23.98 |
-
-### Visualizations
-
-The dashboard includes:
-
-- Mental Health Disorders Distribution
-- Treatment-Seeking Behavior Analysis
-- Workload vs Stress Levels by Mental Health Condition
-- Role of Healthy Habits on Mental Well-being
-- Mental Health Indicators Across Countries
-
----
-
-## Key Findings
-
-### 1. Overall Stress Levels
-
-The average stress level among participants was **5.63 out of 10**, indicating a moderate level of stress across the surveyed population.
-
-**Insight:** Many respondents experience noticeable stress that may affect their overall well-being and productivity.
-
-### 2. Most Commonly Reported Mental Health Conditions
-
-| Condition | Respondents |
-|------------|------------|
-| PTSD | 91 |
-| Schizophrenia | 91 |
-| Depression | 76 |
-| Anxiety | 71 |
-| Bipolar Disorder | 68 |
-
-A considerable number of participants did not disclose their mental health condition.
-
-**Insight:** PTSD and Schizophrenia emerged as the most commonly reported conditions in the dataset.
-
-### 3. Treatment-Seeking Behavior
-
-| Status | Participants | Percentage |
-|---------|-------------|------------|
-| Seeking Treatment | 162 | 25.4% |
-| Not Seeking Treatment | 153 | 24.0% |
-| No Response | 323 | 50.6% |
-
-**Insight:** More than half of the respondents did not disclose their treatment status.
-
-### 4. Work Hours and Mental Health
-
-Average weekly work hours varied across mental health conditions:
-
-- Depression: **51.57 hours**
-- PTSD: High average work hours
-- Bipolar Disorder: High average work hours
-- Anxiety: **47.21 hours**
-
-**Insight:** Participants working longer hours tended to report certain mental health conditions more frequently.
-
-### 5. Impact of Sleep and Exercise
-
-Analysis revealed that:
-
-- Participants with insufficient sleep generally reported higher stress levels.
-- Individuals categorized as needing exercise support also exhibited higher stress levels.
-- Participants with healthier sleep and exercise habits reported comparatively lower stress levels.
-
-**Insight:** Adequate sleep and regular physical activity appear to contribute positively to mental well-being.
-
-### 6. Stress Levels Across Countries
-
-| Country | Average Stress Level |
-|----------|--------------------|
-| Germany | 6.11 |
-| Canada | 5.89 |
-| Australia | 5.22 |
-| United States | 5.22 |
-| France | 5.07 |
-
-**Insight:** Stress levels differ across countries, potentially reflecting workplace and cultural differences.
-
----
-
-## Recommendations
-
-Based on the analysis, the following actions are recommended:
-
-- Promote mental health awareness and early intervention programs.
-- Monitor employees working extended hours and implement workload-balancing initiatives.
-- Encourage regular physical activity through workplace wellness programs.
-- Educate employees on healthy sleep habits.
-- Improve access to counseling and professional treatment services.
-- Develop region-specific mental health support strategies in areas reporting higher stress levels.
-
----
-
-## Tools and Technologies
-
-### Microsoft Excel
-
-The dashboard was built using:
-
-- Data Cleaning
-- Pivot Tables
-- Pivot Charts
-- KPI Cards
-- Interactive Dashboard Design
-
----
-
-## Project Deliverables
-
-- Cleaned Mental Health Dataset
-- Interactive Excel Dashboard
-- Business Insights and Recommendations
-- Data Visualization Report
-
----
-
-## Dashboard Preview
-
-The dashboard provides an interactive view of participant demographics, stress levels, treatment-seeking behavior, workload patterns, and mental health indicators.
-
-![Mental Health Dashboard](https://github.com/ArapzRuto/Mental-Health-Analytics/blob/main/Project%203%20Dashboard.jpg)
-
-
-
----
-
-
-
-
-## Author
-
-**Robert Ruto**
-
-Data Analyst | Data Scientist |Researcher
-
-### Connect With Me
-
-- LinkedIn: [www.linkedin.com/in/robert-ruto-4b2166112]
-- GitHub: [https://github.com/ArapzRuto]
-
-
-
-
+Here is your project rewritten in a professional GitHub portfolio README template format:
+
+🧠 Mental Health Analytics Dashboard
+📌 Overview
+
+The Mental Health Analytics Dashboard is an interactive Excel-based analytics project designed to explore mental health survey data and uncover insights related to stress levels, mental health conditions, workload, sleep, exercise habits, and treatment-seeking behavior.
+
+The project transforms raw survey responses into meaningful business intelligence that can support organizations, healthcare professionals, and policymakers in understanding key drivers of mental well-being.
+
+🎯 Objective
+
+To analyze mental health data and identify patterns between:
+
+Workload and stress levels
+Sleep and exercise habits
+Mental health conditions and treatment-seeking behavior
+Country-level differences in stress
+🛠️ Tools & Technologies
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Data Cleaning & Transformation
+Dashboard Design
+📊 Dataset Overview
+
+The dataset contains responses from 638 participants with the following attributes:
+
+Variable	Description
+Age	Participant age
+Gender	Gender identity
+Country	Country of residence
+Mental Health Condition	Reported condition
+Stress Level	Self-reported stress score
+Sleep Hours	Daily sleep duration
+Weekly Work Hours	Workload indicator
+Exercise Frequency	Physical activity level
+Job Satisfaction	Satisfaction rating
+Treatment Status	Whether treatment is sought
+🧹 Data Preparation
+
+The dataset was cleaned and prepared through:
+
+Handling missing values
+Removing inconsistencies
+Standardizing categorical variables
+Structuring data for analysis and visualization
+📈 Key Features
+Mental health disorder distribution analysis
+Treatment-seeking behavior breakdown
+Work hours vs stress level comparison
+Sleep and exercise impact analysis
+Country-level stress comparison
+Interactive KPI dashboard
+📊 Key Findings
+1. Overall Stress Levels
+
+The average stress level was 5.63 / 10, indicating moderate stress across participants.
+
+2. Most Common Mental Health Conditions
+Condition	Count
+PTSD	91
+Schizophrenia	91
+Depression	76
+Anxiety	71
+Bipolar Disorder	68
+
+👉 PTSD and Schizophrenia were the most frequently reported conditions.
+
+3. Treatment-Seeking Behavior
+Category	Percentage
+Seeking Treatment	25.4%
+Not Seeking Treatment	24.0%
+No Response	50.6%
+
+👉 A large portion of participants did not disclose treatment status.
+
+4. Workload vs Mental Health
+Depression: 51.57 average weekly hours
+Anxiety: 47.21 hours
+Higher workloads were associated with increased stress levels.
+5. Sleep & Exercise Impact
+Lower sleep duration correlated with higher stress levels
+Regular exercise was linked to improved mental well-being
+Poor lifestyle habits increased stress indicators
+6. Country-Level Stress Comparison
+Country	Avg Stress Level
+Germany	6.11
+Canada	5.89
+Australia	5.22
+United States	5.22
+France	5.07
+💡 Insights
+Mental health conditions are strongly influenced by workload and lifestyle habits
+Sleep and exercise are key protective factors
+Significant variation exists across countries
+Treatment-seeking behavior is relatively low
+🚀 Recommendations
+Implement workplace mental health awareness programs
+Monitor and balance employee workload
+Encourage physical activity and wellness programs
+Promote healthy sleep practices
+Improve access to mental health treatment services
+Develop region-specific mental health strategies
+📦 Project Deliverables
+Cleaned dataset
+Interactive Excel dashboard
+Business insights report
+Data visualizations
+📷 Dashboard Preview
+
+👤 Author
+
+Robert Ruto
+Data Analyst | Data Scientist | Researcher
+
+🔗 Connect With Me
+LinkedIn: https://www.linkedin.com/in/robert-ruto-4b2166112
+GitHub: https://github.com/ArapzRuto
