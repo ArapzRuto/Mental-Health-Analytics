@@ -1,8 +1,8 @@
-# 🧠 Mental Health Analytics Dashboard
+# Mental Health Analytics Dashboard
 
 ---
 
-## 📌 Overview
+## Overview
 
 The **Mental Health Analytics Dashboard** is an interactive Excel-based analytics project designed to explore mental health survey data and uncover insights related to stress levels, mental health conditions, workload, sleep, exercise habits, and treatment-seeking behavior.
 
@@ -10,7 +10,7 @@ The project transforms raw survey responses into meaningful business intelligenc
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To analyze mental health data and identify patterns between:
 - Workload and stress levels  
@@ -20,7 +20,7 @@ To analyze mental health data and identify patterns between:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Excel  
 - Pivot Tables  
@@ -30,7 +30,7 @@ To analyze mental health data and identify patterns between:
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset contains responses from **638 participants** with the following attributes:
 
@@ -49,13 +49,13 @@ The dataset contains responses from **638 participants** with the following attr
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 The dataset was cleaned and prepared through:
-- Handling missing values  
-- Removing inconsistencies  
-- Standardizing categorical variables  
-- Structuring data for analysis and visualization  
+- Handled missing values  
+- Removed inconsistencies  
+- Standardized categorical variables  
+- Structured data for analysis and visualization  
 
 ---
 
@@ -70,7 +70,7 @@ The dataset was cleaned and prepared through:
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 ### 1. Overall Stress Levels
 The average stress level was **5.63 / 10**, indicating moderate stress across participants.
@@ -87,7 +87,7 @@ The average stress level was **5.63 / 10**, indicating moderate stress across pa
 | Anxiety | 71 |
 | Bipolar Disorder | 68 |
 
-👉 PTSD and Schizophrenia were the most frequently reported conditions.
+ PTSD and Schizophrenia were the most frequently reported conditions.
 
 ---
 
@@ -99,7 +99,7 @@ The average stress level was **5.63 / 10**, indicating moderate stress across pa
 | Not Seeking Treatment | 24.0% |
 | No Response | 50.6% |
 
-👉 A large portion of participants did not disclose treatment status.
+ A large portion of participants did not disclose treatment status.
 
 ---
 
@@ -131,7 +131,7 @@ The average stress level was **5.63 / 10**, indicating moderate stress across pa
 
 ---
 
-## 💡 Insights
+## Key Insights
 
 - Mental health conditions are strongly influenced by workload and lifestyle habits  
 - Sleep and exercise are key protective factors  
@@ -140,7 +140,7 @@ The average stress level was **5.63 / 10**, indicating moderate stress across pa
 
 ---
 
-## 🚀 Recommendations
+##  Recommendations
 
 - Implement workplace mental health awareness programs  
 - Monitor and balance employee workload  
