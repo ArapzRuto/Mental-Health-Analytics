@@ -151,7 +151,7 @@ The average stress level was **5.63 / 10**, indicating moderate stress across pa
 
 ---
 
-## 📦 Project Deliverables
+##  Project Deliverables
 
 - Cleaned dataset  
 - Interactive Excel dashboard  
