@@ -44,10 +44,10 @@ The dataset contains responses from **638 participants** and includes the follow
 
 The dataset was cleaned and transformed before analysis by:
 
-- Handling missing values
-- Removing inconsistencies
-- Standardizing categorical variables
-- Preparing fields for reporting and visualization
+- Handled missing values
+- Removed inconsistencies
+- Standardized categorical variables
+- Prepared fields for reporting and visualization
 
 ---
 
